@@ -1,4 +1,3 @@
-
 module dff(
   input logic[7:0] din,
   input clk,
